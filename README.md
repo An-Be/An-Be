@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Andrea (@An-Be)
-- 👀 I’m interested in game development and web/mobile development
-- 💞️ I’m looking to collaborate on apps or games
+- 👋 Hi, I’m Andrea (@An-Be), I am a software Engineer at AMEX
+- 👀 I’m interested in game development and web development
+- 🔥 I’m looking to collaborate on apps or games
+- 👩‍💻 Currently learning more on TDD with Jest and planning on building a new portfolio in react.
 - 📭 You can reach me at https://www.linkedin.com/in/andrea-berrocal-/
