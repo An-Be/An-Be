@@ -7,8 +7,9 @@
 
 - <a href="https://www.tabmath.com/">TabMath</a>
 - <a href="https://www.tagyourturn.com/">TagYourTurn</a>
-- More incoming....
+- <a href="https://apodaily.vercel.app">Apodaily</a>
 
+- More incoming....
 ### `Socials`
 
  <a href="mailto:info@andreaberrocal.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
