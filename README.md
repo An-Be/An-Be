@@ -8,7 +8,7 @@ Currently building a suite of random tiny tools.
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="240">
       <a href="https://www.tabmath.com/">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/tabmath-dark.svg">
@@ -18,9 +18,9 @@ Currently building a suite of random tiny tools.
       <br>
       <a href="https://www.tabmath.com/"><b>TabMath</b></a>
       <br>
-      <sub>Split the bill in 60 seconds</sub>
+      <sub>Split&nbsp;the&nbsp;bill&nbsp;in&nbsp;60&nbsp;seconds</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="240">
       <a href="https://www.tagyourturn.com/">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/tagyourturn-dark.svg">
@@ -30,9 +30,9 @@ Currently building a suite of random tiny tools.
       <br>
       <a href="https://www.tagyourturn.com/"><b>TagYourTurn</b></a>
       <br>
-      <sub>Whose turn is it today?</sub>
+      <sub>Whose&nbsp;turn&nbsp;is&nbsp;it&nbsp;today?</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="240">
       <a href="https://apodaily.vercel.app">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/apodaily-dark.svg">
@@ -42,7 +42,7 @@ Currently building a suite of random tiny tools.
       <br>
       <a href="https://apodaily.vercel.app"><b>Apodaily</b></a>
       <br>
-      <sub>NASA's picture of the day</sub>
+      <sub>NASA's&nbsp;picture&nbsp;of&nbsp;the&nbsp;day</sub>
     </td>
   </tr>
 </table>
@@ -53,7 +53,7 @@ Currently building a suite of random tiny tools.
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="180">
       <a href="mailto:info@andreaberrocal.com">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/email-dark.svg">
@@ -63,7 +63,7 @@ Currently building a suite of random tiny tools.
         Email
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="180">
       <a href="https://www.linkedin.com/in/andrea-berrocal-/">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg">
@@ -73,21 +73,21 @@ Currently building a suite of random tiny tools.
         LinkedIn
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="180">
       <a href="https://andreaberrocal.com/">
         <img src="assets/portfolio.svg" width="24" height="24" alt="">
         <br>
         Portfolio
       </a>
     </td>
-    <td align="center" width="25%">
-      <a href="https://calendly.com/andreaberrocal-info/30min">
+    <td align="center" width="180">
+      <a href="https://calendly.com/andreaberrocal-info-qfxc/30min">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/calendar-dark.svg">
           <img src="assets/calendar-light.svg" width="24" height="24" alt="">
         </picture>
         <br>
-        Book a call
+        Book&nbsp;a&nbsp;call
       </a>
     </td>
   </tr>
