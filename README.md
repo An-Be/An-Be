@@ -2,7 +2,7 @@
 
 Hi, I'm Andrea (@An-Be). I build demos @ Stripe. I make complex products legible to buyers, sellers, and everyone in between.
 
-Currently building a suite of random tiny tools.
+Currently building a suite of random tiny tools, and a daily game.
 
 ### `Tiny Tools`
 
@@ -51,6 +51,32 @@ Currently building a suite of random tiny tools.
       </picture>
       <br>
       <b>More&nbsp;incoming</b>
+      <br>
+      <sub>Still&nbsp;building</sub>
+    </td>
+  </tr>
+</table>
+
+### `Games`
+
+<table>
+  <tr>
+    <td align="center" width="170">
+      <a href="https://www.wraparty.com/">
+        <img src="assets/wraparty.svg" width="64" height="64" alt="Wraparty">
+      </a>
+      <br>
+      <a href="https://www.wraparty.com/"><b>Wraparty</b></a>
+      <br>
+      <sub>A&nbsp;new&nbsp;game&nbsp;every&nbsp;day</sub>
+    </td>
+    <td align="center" width="170">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/more-dark.svg">
+        <img src="assets/more-light.svg" width="64" height="64" alt="">
+      </picture>
+      <br>
+      <b>More&nbsp;coming&nbsp;soon</b>
       <br>
       <sub>Still&nbsp;building</sub>
     </td>
